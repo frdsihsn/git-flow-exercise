@@ -4,7 +4,7 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 
 
 
-## Picks of the Month
+## Picks of the Month (January)
 
 ### [Cuba Pudding Jr.](writer/cuba-pudding-jr.md) | cubapud@flavor.magazine
 
@@ -21,3 +21,9 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 ### [Madame Croque](writer/madame-croque.md) | mmecroque@flavor.magazine
 
 [Chocolate Soup](recipe/jan/chocolate-soup.md)
+
+## Picks of the Month (February)
+
+### [Cuba Pudding Jr.](writer/cuba-pudding-jr.md) | cubapud@flavor.magazine
+
+[Quick Oatmeal Pancakes](recipe/feb/quick-oatmeal-pancakes.md)
